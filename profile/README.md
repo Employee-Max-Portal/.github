@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Employee-Max-Portal.png" width="200" alt="EMP Logo">
-  <h1>Employee Max Portal (EMP)</h1>
-  <p>A Business Operating System for driving clarity, accountability, and scalable execution.</p>
-</div>
-
 # EMP - Employee Max Portal
 
 A system-first business operating system designed to streamline execution, eliminate coordination overhead, and drive predictable, outcome-focused performance across organizations.
