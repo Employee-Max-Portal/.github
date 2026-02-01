@@ -250,20 +250,15 @@ chmod -R 755 uploads/ application/logs/
 
 ## Documentation & Wiki Links
 
-- **Core Philosophy**: [/docs/core-philosophy.md](docs/core-philosophy.md)
-- **Getting Started Guide**: [/docs/getting-started.md](docs/getting-started.md)
-- **System Architecture**: [/docs/system-architecture.md](docs/system-architecture.md)
-- **Security Guidelines**: [/docs/security.md](docs/security.md)
-- **Developer Guide**: [/docs/developer-guide.md](docs/developer-guide.md)
-- **API Reference**: [/docs/api-overview.md](docs/api-overview.md)
-- **Deployment Guide**: [/docs/deployment.md](docs/deployment.md)
-- **FAQ & Troubleshooting**: [/docs/faq.md](docs/faq.md)(docs/system-architecture.md)
-- **Module Development**: [/docs/modules-overview.md](docs/modules-overview.md)
-- **API Reference**: [/docs/api-overview.md](docs/api-overview.md)
-- **Security Guidelines**: [/docs/security.md](docs/security.md)
-- **Deployment Guide**: [/docs/deployment.md](docs/deployment.md)
-- **Developer Guide**: [/docs/developer-guide.md](docs/developer-guide.md)
-- **FAQ & Troubleshooting**: [/docs/faq.md](docs/faq.md)
+- [Home](https://github.com/Employee-Max-Portal/emp-open-source/wiki)
+- [Core Philosophy & WHY](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Core-Philosophy)
+- [Getting Started](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Getting%E2%80%90Started)
+- [Features](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Features)
+- [Roles & Permissions](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Roles-&-Permissions)
+- [System Architecture & Developer Guide](https://github.com/Employee-Max-Portal/emp-open-source/wiki/System-Architecture-&-Developer-Guide)
+- [Open Source vs EMP Cloud](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Open-Source-vs-EMP-Cloud)
+- [FAQ & Troubleshooting](https://github.com/Employee-Max-Portal/emp-open-source/wiki/FAQ-&-Troubleshooting)
+- [Contact / Community Guide](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Contact---Community--Guide)
 
 ## Roadmap
 
