@@ -259,6 +259,7 @@ chmod -R 755 uploads/ application/logs/
 - [Open Source vs EMP Cloud](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Open-Source-vs-EMP-Cloud)
 - [FAQ & Troubleshooting](https://github.com/Employee-Max-Portal/emp-open-source/wiki/FAQ-&-Troubleshooting)
 - [Contact / Community Guide](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Contact---Community--Guide)
+- [Contribution Guidelines](https://github.com/Employee-Max-Portal/emp-open-source/wiki/Contribution-Guidelines)
 
 ## Roadmap
 
