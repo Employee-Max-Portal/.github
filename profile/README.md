@@ -1,3 +1,12 @@
+# EMP – Employee Max Portal
+
+> ⚡ Official Open Source Repository
+
+👉 **Start Here:**  
+🔗 https://github.com/Employee-Max-Portal/emp-open-source
+
+---
+
 # EMP - Employee Max Portal
 
 A system-first business operating system designed to streamline execution, eliminate coordination overhead, and drive predictable, outcome-focused performance across organizations.
