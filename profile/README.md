@@ -1,3 +1,14 @@
+## 🔗 Official EMP Links
+
+🌍 **Website:** https://demo-emp.sohub.com.bd  
+📘 **Community:** https://www.facebook.com/groups/1381078433708350  
+📧 **Contact:** tech@sohub.com.bd  
+📍 **Location:** Bangladesh  
+
+---
+
+🚀 **Get Started with EMP Open Source**  
+👉 https://github.com/Employee-Max-Portal/emp-open-source
 # EMP – Employee Max Portal
 
 > ⚡ Official Open Source Repository
